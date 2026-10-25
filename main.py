@@ -299,4 +299,4 @@ async def trade(interaction: discord.Interaction, destinatario: discord.Member, 
     await interaction.response.send_message(content=destinatario.mention, embed=embed, view=view)
 
 # --- AVVIO BOT ---
-bot.run("MTU2Mzg0OTQwMDg0ODIyNDI1Ng.Gdy4tm.qeN2AIl9OfzvrQaoVJ1-rl_2LjpnjUmUR1TYAk")
+bot.run("MTU2Mzg0OTQwMDg0ODIyNDI1Ng.GJGYEP.kR3yvtp_Y55cOI85dIM_s5jNIOCXP1hYxodTCc")
